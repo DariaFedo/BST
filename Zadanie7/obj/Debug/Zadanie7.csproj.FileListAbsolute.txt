@@ -1,0 +1,14 @@
+C:\Users\fedo\source\repos\Zadanie7\Zadanie7\obj\Debug\Zadanie7.csprojAssemblyReference.cache
+C:\Users\fedo\source\repos\Zadanie7\Zadanie7\obj\Debug\Zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\fedo\source\repos\Zadanie7\Zadanie7\bin\Debug\Zadanie7.exe.config
+C:\Users\fedo\source\repos\Zadanie7\Zadanie7\bin\Debug\Zadanie7.exe
+C:\Users\fedo\source\repos\Zadanie7\Zadanie7\bin\Debug\Zadanie7.pdb
+C:\Users\fedo\source\repos\Zadanie7\Zadanie7\obj\Debug\Zadanie7.exe
+C:\Users\fedo\source\repos\Zadanie7\Zadanie7\obj\Debug\Zadanie7.pdb
+C:\Users\fedo\source\repos\Zadanie7i8\Zadanie7\bin\Debug\Zadanie7.exe.config
+C:\Users\fedo\source\repos\Zadanie7i8\Zadanie7\bin\Debug\Zadanie7.exe
+C:\Users\fedo\source\repos\Zadanie7i8\Zadanie7\bin\Debug\Zadanie7.pdb
+C:\Users\fedo\source\repos\Zadanie7i8\Zadanie7\obj\Debug\Zadanie7.csprojAssemblyReference.cache
+C:\Users\fedo\source\repos\Zadanie7i8\Zadanie7\obj\Debug\Zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\fedo\source\repos\Zadanie7i8\Zadanie7\obj\Debug\Zadanie7.exe
+C:\Users\fedo\source\repos\Zadanie7i8\Zadanie7\obj\Debug\Zadanie7.pdb
